@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#7E88EE</item>
+        <item name="colorPrimaryDark">#A9A9A9</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">#7e88ee</item>
+    </style>
+
+
+</resources>
+
